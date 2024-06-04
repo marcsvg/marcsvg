@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-My name is Marcus Vinicius,
+<p>My name is Marcus Vinicius,</p>
 
-🤔 20 years,
-🎓 Majoring in Systems Analysis and Development,
-💻 I'm looking to collaborate as software developer,
-📖 Currently have knowledge in Javascript/ES6+, Typescript, Java, React,
-🧠 Always open to new knowledge.
+<div>
+  <p>
+    🤔 20 years, <br/>
+    🎓 Majoring in Systems Analysis and Development, <br/>
+    💻 Looking to collaborate as software developer, <br/>
+    📖 Currently have knowledge in Javascript/ES6+, Typescript, Java, React, <br/>
+    🧠 Always open to new knowledge.
+  </p>
+</div>
